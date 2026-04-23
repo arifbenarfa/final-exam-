@@ -91,6 +91,7 @@ main {
   width: 100%;
   text-align: left;
   background: #ffffff;
+  color: var(--dark);
   border: 1px solid #ddd;
   border-left: 4px solid var(--primary);
   border-radius: 10px;
